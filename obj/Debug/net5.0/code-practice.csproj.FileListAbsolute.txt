@@ -1,0 +1,16 @@
+D:\Codes\code-practice\bin\Debug\net5.0\code-practice.exe
+D:\Codes\code-practice\bin\Debug\net5.0\code-practice.deps.json
+D:\Codes\code-practice\bin\Debug\net5.0\code-practice.runtimeconfig.json
+D:\Codes\code-practice\bin\Debug\net5.0\code-practice.runtimeconfig.dev.json
+D:\Codes\code-practice\bin\Debug\net5.0\code-practice.dll
+D:\Codes\code-practice\bin\Debug\net5.0\ref\code-practice.dll
+D:\Codes\code-practice\bin\Debug\net5.0\code-practice.pdb
+D:\Codes\code-practice\obj\Debug\net5.0\code-practice.csproj.AssemblyReference.cache
+D:\Codes\code-practice\obj\Debug\net5.0\code-practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\code-practice\obj\Debug\net5.0\code-practice.AssemblyInfoInputs.cache
+D:\Codes\code-practice\obj\Debug\net5.0\code-practice.AssemblyInfo.cs
+D:\Codes\code-practice\obj\Debug\net5.0\code-practice.csproj.CoreCompileInputs.cache
+D:\Codes\code-practice\obj\Debug\net5.0\code-practice.dll
+D:\Codes\code-practice\obj\Debug\net5.0\ref\code-practice.dll
+D:\Codes\code-practice\obj\Debug\net5.0\code-practice.pdb
+D:\Codes\code-practice\obj\Debug\net5.0\code-practice.genruntimeconfig.cache
